@@ -24,7 +24,7 @@ Mission Aspiration Dashboard 🎯
 
 Manager Aspiration Dashboard 👨‍💼
 
-🛠️ Tools & Technologies Used
+# 🛠️ Tools & Technologies Used
 ✅ Advance Excel - Data visualization and dashboard creation
 ✅ SQL - Querying and extracting insights from datasets
 ✅ Excel - Data cleaning and basic analysis
