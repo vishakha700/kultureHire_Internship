@@ -4,11 +4,14 @@
 This repository contains the projects and tasks I worked on during my virtual internship at KultureHire. The focus was on data cleaning, SQL queries, and data visualization using  Excel
 
 📁 Project Details
+
 1️⃣ GenZ Career Aspirations Analysis
+
 🔹 Data Cleaning & Standardization
 
 Performed data cleaning and transformation to ensure consistency.
 Standardized categorical values for better insights.
+
 🔹 SQL Queries for Data Analysis
 
 Extracted key insights using SQL queries.
